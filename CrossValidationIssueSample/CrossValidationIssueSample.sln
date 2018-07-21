@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossValidationIssueSample", "CrossValidationIssueSample\CrossValidationIssueSample.csproj", "{BE5AD33C-B0B4-4377-96CB-25A8ECA780CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE5AD33C-B0B4-4377-96CB-25A8ECA780CE}.Debug|x64.ActiveCfg = Debug|x64
+		{BE5AD33C-B0B4-4377-96CB-25A8ECA780CE}.Debug|x64.Build.0 = Debug|x64
+		{BE5AD33C-B0B4-4377-96CB-25A8ECA780CE}.Release|x64.ActiveCfg = Release|Any CPU
+		{BE5AD33C-B0B4-4377-96CB-25A8ECA780CE}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFA30C74-1E33-4886-B9B6-1621618A06E5}
+	EndGlobalSection
+EndGlobal
